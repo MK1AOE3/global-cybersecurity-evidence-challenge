@@ -16,6 +16,21 @@ Not confidence. Not reputation. Not popularity. Not a polished demonstration. No
 
 Trust must also be scoped: trusted for which decision, under whose authority, in which environment, against which threats, and with what consequences when the model is wrong?
 
+## Start Here
+
+- **Answer the challenge:** use the [Answer Template](ANSWER_TEMPLATE.md).
+- **Read the unchanged master prompt:** [PROMPT.md](PROMPT.md).
+- **Read the cross-model reviewer analysis:** [Model Comparison](reviews/model-comparison.md).
+- **Understand the classifications:** [Evaluation Scale](#evaluation-scale).
+- **Review evidence-safety rules:** [Evidence Safety](#evidence-safety).
+- **Submit a public answer:** open a pull request using the answer template.
+- **Ask a question or request a correction:** open an issue.
+
+Do not submit credentials, secrets, customer information, confidential
+architecture or exploitable procedures. Confidential submissions are not
+currently accepted through this repository.
+
+
 This question applies to AI models, security products, automated systems and the organizations making claims about them.
 
 Why This Challenge Exists
