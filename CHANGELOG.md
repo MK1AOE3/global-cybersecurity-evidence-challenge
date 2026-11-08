@@ -32,3 +32,14 @@ Added
 - Central model-trust question.
 - Initial evidence scale and safety principles.
 - `PROMPT.md`, `ANSWER_TEMPLATE.md` and `reviews/model-comparison.md`.
+## 2026-11-09 — evidence: hybrid linear-attention verification pack
+
+- Added evidence/hybrid-linear-attention/ : 4 arXiv preprints on hybrid
+  linear-attention recurrent states (Attention Residuals/Kimi 2603.15031v1,
+  LeapQuant 2609.38166v1, LoReS 2611.01864v1, SEED/NVIDIA 2611.06084v1)
+  with SHA256SUMS.txt (reference digests) and verification/VERIFICATION_LOG.md.
+- Verification runtime: Kimi 2026-11-09. Attention Residuals headline numbers
+  byte-verified vs extracted PDF text; cross-paper rank-one state convergence noted.
+- All preprints, vendor numbers quoted as-published, not reproduced.
+- Sealing status: reference hashes only; owner-side GPG signing pending.
+- Note: repository license not yet selected; preprints included as reference only.
